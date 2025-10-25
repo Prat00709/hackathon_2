@@ -168,5 +168,5 @@ m = render_resolved_map()
 m  # If notebook supports folium rendering you'll see interactive map
 
 ## ✅ STEP 5: Kaggle → Streamlit Deployment Workflow
-!zip -r civic_tracker.zip civic_issue_tracker/
+#!zip -r civic_tracker.zip civic_issue_tracker/
 
