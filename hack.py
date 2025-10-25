@@ -26,7 +26,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
 # You can also write temporary files to /kaggle/temp/, but they won't be saved outside of the current session
 
 # Cell 1: install (run as shell)
-!pip install streamlit sqlalchemy pillow folium streamlit-folium python-dotenv
+#!pip install streamlit sqlalchemy pillow folium streamlit-folium python-dotenv
 
 # Cell 2: DB + helpers (paste into a notebook cell and run)
 import os, uuid
